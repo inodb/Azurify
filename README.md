@@ -21,7 +21,7 @@ Azurify is written in python3 and can easily be installed via pip and git. Azuri
 ```
 git clone https://github.com/faryabiLab/Azurify.git
 cd Azurify
-pip install -r requires.txt
+pip install -r requirements.txt
 ```
 ## Usage
 
